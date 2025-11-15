@@ -1,0 +1,38 @@
+# Build Generated
+Build
+Builds
+UnityLoader
+AssetsAssetStoreTools
+
+# Unity Generated
+Library
+Logs
+MemoryCaptures
+Obj
+Temp
+WebPlayerTemplates
+Builds
+.cs.meta
+.unity.meta
+
+# User Generated
+!AssetsScenes
+!AssetsScripts
+!AssetsModels
+!AssetsPrefabs
+!AssetsMaterials
+!AssetsTextures
+!AssetsAnimations
+!AssetsAudio
+!AssetsPlugins
+!AssetsStreamingAssets
+!ProjectSettings
+!Packages
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Icon
