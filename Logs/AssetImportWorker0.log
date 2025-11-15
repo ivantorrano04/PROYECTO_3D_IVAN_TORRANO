@@ -321,3 +321,1010 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.428 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.392 seconds
+Domain Reload Profiling: 1818ms
+	BeginReloadAssembly (150ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (196ms)
+		LoadAssemblies (261ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (18ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1392ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (618ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (78ms)
+			ProcessInitializeOnLoadAttributes (391ms)
+			ProcessInitializeOnLoadMethodAttributes (134ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 5.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5038 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (2.0 MB). Loaded Objects now: 5715.
+Memory consumption went from 185.9 MB to 183.9 MB.
+Total: 4.114800 ms (FindLiveObjects: 0.404500 ms CreateObjectMapping: 0.264300 ms MarkObjects: 3.108900 ms  DeleteObjects: 0.335300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 3ead1caaecf1c488f20bcfeb224b6af5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.790 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.093 seconds
+Domain Reload Profiling: 2877ms
+	BeginReloadAssembly (249ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (63ms)
+	LoadAllAssembliesAndSetupDomain (403ms)
+		LoadAssemblies (502ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (30ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (2094ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (910ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (124ms)
+			ProcessInitializeOnLoadAttributes (617ms)
+			ProcessInitializeOnLoadMethodAttributes (143ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (31ms)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 5.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5038 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (2.0 MB). Loaded Objects now: 5720.
+Memory consumption went from 185.9 MB to 183.9 MB.
+Total: 8.056900 ms (FindLiveObjects: 0.716000 ms CreateObjectMapping: 0.339500 ms MarkObjects: 6.396700 ms  DeleteObjects: 0.602400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 3ead1caaecf1c488f20bcfeb224b6af5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2492.877442 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Sounds/Chainsaw_Idle.mp3
+  artifactKey: Guid(727cc9b5b68ce4a4da1968c42eda6842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Sounds/Chainsaw_Idle.mp3 using Guid(727cc9b5b68ce4a4da1968c42eda6842) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '11e76a31e8c72416630f9a236528f0ec') in 0.341457 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Sounds/PistolShot.mp3
+  artifactKey: Guid(71d5181e6564e354ba250af129cdcb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Sounds/PistolShot.mp3 using Guid(71d5181e6564e354ba250af129cdcb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '40df6d22bf017237b27cbe5594922177') in 0.073181 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Sounds/SteppingOnTile_04.mp3
+  artifactKey: Guid(2d58e47ca89eb4643b3414095cde6e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Sounds/SteppingOnTile_04.mp3 using Guid(2d58e47ca89eb4643b3414095cde6e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5b645699587430dbc2627b0cb540bf6b') in 0.080307 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Sounds/Dark Tension Music.mp3
+  artifactKey: Guid(3de032cd39b561449bb672df1f4c77bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Sounds/Dark Tension Music.mp3 using Guid(3de032cd39b561449bb672df1f4c77bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1ea7d74b0644b96be172f904a3b61f8b') in 0.389862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Sounds/SteppingOnTile_02.mp3
+  artifactKey: Guid(789017df22e30094092c75d5893a80fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Sounds/SteppingOnTile_02.mp3 using Guid(789017df22e30094092c75d5893a80fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '589043f68ba07d97203adac3b77f47c1') in 0.064230 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 240.045987 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001
+  artifactKey: Guid(f975f0a88429cb6498e3d9110307f92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001 using Guid(f975f0a88429cb6498e3d9110307f92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '21fb5e196390561cac9f452a03a8996b') in 0.002527 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.771614 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets
+  artifactKey: Guid(b159ad2ddafdeab4889ff3a5ee789955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets using Guid(b159ad2ddafdeab4889ff3a5ee789955) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1504dba13f9b7fadbc69e357823c05dd') in 0.001158 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.573050 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models
+  artifactKey: Guid(0e53ee7e2d6451c44b987426c3859104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models using Guid(0e53ee7e2d6451c44b987426c3859104) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '16fb618b264b191ac080496b3833f8bc') in 0.001133 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.543696 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chainsaw
+  artifactKey: Guid(5c2605cc8b2018740bd0e6db6d964fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chainsaw using Guid(5c2605cc8b2018740bd0e6db6d964fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'da8a91f7ebe12042dc9151dacda4a9c4') in 0.001339 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.017432 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chainsaw/3dst41_textured.jpg
+  artifactKey: Guid(2460f3c894787ba488eb5565043e3726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chainsaw/3dst41_textured.jpg using Guid(2460f3c894787ba488eb5565043e3726) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a318598d3da5b54c735098518cc68179') in 0.240823 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chainsaw/Chainsaw.mat
+  artifactKey: Guid(f568356455515f448832616884e8d7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chainsaw/Chainsaw.mat using Guid(f568356455515f448832616884e8d7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5e7362f7bf144ca9e44277d02671c00a') in 0.515495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 10.735242 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Zombie
+  artifactKey: Guid(ef3077c50e8a3d04ebd3f4ccc42e8041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Zombie using Guid(ef3077c50e8a3d04ebd3f4ccc42e8041) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '07577902e068c0fc13a7f35877de385c') in 0.000737 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.095974 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Zombie/Death.fbx
+  artifactKey: Guid(a297f252eb3cf0f40b0541a0d96daf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Zombie/Death.fbx using Guid(a297f252eb3cf0f40b0541a0d96daf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4ebd0271220abddc60bcbb2b3c5283bc') in 2.130178 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 165
+========================================================================
+Received Import Request.
+  Time since last request: 5.483578 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Arms
+  artifactKey: Guid(c18eb4132ecf66c4e825d698aeb76a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Arms using Guid(c18eb4132ecf66c4e825d698aeb76a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '33cd20970d4bd094fae04cdb92d94f08') in 0.002167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.184649 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chest
+  artifactKey: Guid(8e43c1a0108a57a4f909e68fa20a726d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chest using Guid(8e43c1a0108a57a4f909e68fa20a726d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c6cd3835fced5c60cff82f30495173c8') in 0.001202 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.090533 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chest/Chest.fbx
+  artifactKey: Guid(904bd775aff58054f92f9667cc6aabbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chest/Chest.fbx using Guid(904bd775aff58054f92f9667cc6aabbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd2f3d5e2fff593d3434d2112b951fe82') in 0.154351 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 2.671233 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock
+  artifactKey: Guid(30732237f3bbb7d4a8492c84fa61856e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock using Guid(30732237f3bbb7d4a8492c84fa61856e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7e4486c558418ea99ada9ca9a70de8e7') in 0.001862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.090950 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Cart.prefab
+  artifactKey: Guid(9b1c8bcd0702f6e4d949acf6020d7372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Cart.prefab using Guid(9b1c8bcd0702f6e4d949acf6020d7372) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '75306281f2d6a5b7f36d507100acd61a') in 0.094268 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Slide_Reference_Side.png
+  artifactKey: Guid(b67ae40d1ced9964cbe701ef661526b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Slide_Reference_Side.png using Guid(b67ae40d1ced9964cbe701ef661526b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '86e600169b65cefee2ef7a5ea4b970cf') in 0.044845 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Slide_Reference_Front.png
+  artifactKey: Guid(444ab52f7df8a2c40b2d23f2d2e1f497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Slide_Reference_Front.png using Guid(444ab52f7df8a2c40b2d23f2d2e1f497) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e653765019a6d15dbe55f5658a549dc0') in 0.048622 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Glock 1.mat
+  artifactKey: Guid(0d0c7a8c65d5f69438c4ebfca38074c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Glock 1.mat using Guid(0d0c7a8c65d5f69438c4ebfca38074c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3de984c219de55109f598d9e5bf71d2f') in 0.021425 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Slide_Reference_Side_2.png
+  artifactKey: Guid(c3d17af5a29e62d458b47f3369b6999e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Slide_Reference_Side_2.png using Guid(c3d17af5a29e62d458b47f3369b6999e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0acea3dc519a854f652108321d36284d') in 0.064016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Glock 2.mat
+  artifactKey: Guid(fc143ae2504411f4c874d397299bfd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Glock 2.mat using Guid(fc143ae2504411f4c874d397299bfd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '032a4940c2d543ea630cb1040f961494') in 0.027813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Slide_Reference_Back.png
+  artifactKey: Guid(c17c78cf4c5cd5b409a83006b5d1e6e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Slide_Reference_Back.png using Guid(c17c78cf4c5cd5b409a83006b5d1e6e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3e65853fd48bbbb9f12332d935b3a18b') in 0.046299 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Cartrage 1.mat
+  artifactKey: Guid(708c11569e9a1b5439ad4976ce33e336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Cartrage 1.mat using Guid(708c11569e9a1b5439ad4976ce33e336) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6701a83819cc1604445fa42685dbde5b') in 0.017934 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Glock.mat
+  artifactKey: Guid(e7a3c7038d9fc484c90c180b7bb4b5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Glock.mat using Guid(e7a3c7038d9fc484c90c180b7bb4b5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '243fe6d475671a27cae4ed66540852dd') in 0.042643 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Glock 3.mat
+  artifactKey: Guid(da986c9e2b8855541a6491718dcb998e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Glock/Glock 3.mat using Guid(da986c9e2b8855541a6491718dcb998e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2ee41e2c8008d3ef322332a0d1caa4ca') in 0.040803 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.584980 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Key
+  artifactKey: Guid(2f1d44537442ad341a0d1b8dfd34a949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Key using Guid(2f1d44537442ad341a0d1b8dfd34a949) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2fbf8fd041a68cb95976dd1e9aac2db8') in 0.001514 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.092018 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Key/Key.fbx
+  artifactKey: Guid(a16c1850769f6e44b87522a16d4d34cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Key/Key.fbx using Guid(a16c1850769f6e44b87522a16d4d34cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '48158251e9bb2828ac6a18781d31ede6') in 0.060200 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 6.195272 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Effects/Fire.prefab
+  artifactKey: Guid(ffea4d7b0eb5edb40875a5ffff24dff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Effects/Fire.prefab using Guid(ffea4d7b0eb5edb40875a5ffff24dff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fa09bbf75850edcf16a3cb5cbb1c884e') in 0.109337 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 2.341513 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Map/MapFBXFile.fbx
+  artifactKey: Guid(7eba3fdf68aa1ed499a32655f9b87cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Map/MapFBXFile.fbx using Guid(7eba3fdf68aa1ed499a32655f9b87cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '057742435d231cd0e3e7bc3429c84b75') in 0.210204 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 33
+========================================================================
+Received Import Request.
+  Time since last request: 2.810166 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Bricks.jpg
+  artifactKey: Guid(6371b5115d33ec040a49909a4c030ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Bricks.jpg using Guid(6371b5115d33ec040a49909a4c030ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bb0fce8dc562b38c90ac8f190f9862a1') in 0.132062 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Bricks3.jpg
+  artifactKey: Guid(676a828f1a8af5941a639b5150b10268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Bricks3.jpg using Guid(676a828f1a8af5941a639b5150b10268) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '750628d4bcf4e9dc6cc11c46af5ca0cf') in 0.046705 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/BurntWood.jpg
+  artifactKey: Guid(f6025f1c8a3c7b14dbd9d8be4a5147ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/BurntWood.jpg using Guid(f6025f1c8a3c7b14dbd9d8be4a5147ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6071ec63027051d0cbefd11eae242280') in 0.042499 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Carpet8.jpg
+  artifactKey: Guid(09c266c2e66b695439289dd3711e0c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Carpet8.jpg using Guid(09c266c2e66b695439289dd3711e0c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2cd0c260e8e64c668081af64f7463000') in 0.045925 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Gold5.jpg
+  artifactKey: Guid(8841f66d7a76e894cab88564d78a34f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Gold5.jpg using Guid(8841f66d7a76e894cab88564d78a34f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a8395de09ab9578a1b257adcff769db5') in 0.075375 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Carpet2.jpg
+  artifactKey: Guid(a6220c9c466df734c8bb08f01ff0c96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Carpet2.jpg using Guid(a6220c9c466df734c8bb08f01ff0c96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c8d053db60d2ad86b24239ca5376bc1e') in 0.055718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Cloth3.jpg
+  artifactKey: Guid(65fda06479b5165458dbb4f22f85c50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Cloth3.jpg using Guid(65fda06479b5165458dbb4f22f85c50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '388be801a1833a1b73029e1b151f155b') in 0.086076 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Grass.jpg
+  artifactKey: Guid(a0b15e8f578833341a74a68985a19b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Grass.jpg using Guid(a0b15e8f578833341a74a68985a19b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b82367ca0c5005e51a51f12b21302e8c') in 0.047996 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Dirt4.jpg
+  artifactKey: Guid(edccadaa809ad364a9985bd9a7e886a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Dirt4.jpg using Guid(edccadaa809ad364a9985bd9a7e886a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a8c876ba37bbab531d93badf59d65d7c') in 0.084393 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Gold.jpg
+  artifactKey: Guid(42434468140f91744af47517407fd79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Gold.jpg using Guid(42434468140f91744af47517407fd79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1aefc244aa9e7e314b369d2e1927c3ee') in 0.063943 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Gold4.jpg
+  artifactKey: Guid(e90e2ce045a7e044b8c550c1df993d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Gold4.jpg using Guid(e90e2ce045a7e044b8c550c1df993d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5bec8b8e5695861ff13e4cbffe4edbd2') in 0.044475 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Cloth2.jpg
+  artifactKey: Guid(bb215eea7a6459242bcfa9987efa19a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Cloth2.jpg using Guid(bb215eea7a6459242bcfa9987efa19a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '21f2757793db4d2840c8791a10808847') in 0.043915 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Carpet.jpg
+  artifactKey: Guid(05ff19e236bb5cf4fb18c7e92a7162b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Carpet.jpg using Guid(05ff19e236bb5cf4fb18c7e92a7162b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '31d16717a94a444d8451bbc9e1773b68') in 0.086650 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Cloth5.jpg
+  artifactKey: Guid(19b6fd224e63b154c9b321260e1a2d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Cloth5.jpg using Guid(19b6fd224e63b154c9b321260e1a2d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e07a0b435f70d4cffb65dedf0a9aba1b') in 0.044196 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Grass3.jpg
+  artifactKey: Guid(83c2d3fb41977d143904be1f80bf257e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Grass3.jpg using Guid(83c2d3fb41977d143904be1f80bf257e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ce00862bb5c073c8c40ec110f6dcea14') in 0.081487 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Silver2.jpg
+  artifactKey: Guid(fe118a54ced89c94a838181b2a44b954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Silver2.jpg using Guid(fe118a54ced89c94a838181b2a44b954) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5c9eb530d5c4af333bc46689457cb900') in 0.043165 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rust4.jpg
+  artifactKey: Guid(0e3899d8a4e4693409d934b6ec3318d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rust4.jpg using Guid(0e3899d8a4e4693409d934b6ec3318d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ae2658f7d3d4ece5813bd0b7c19d32f5') in 0.058100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Metal3.jpg
+  artifactKey: Guid(f8f8bc1760c2fc845ba0c482fb54b9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Metal3.jpg using Guid(f8f8bc1760c2fc845ba0c482fb54b9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '27c0e3134b0cec9bc0621a2c4f1c09e7') in 0.048696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Stain3.png
+  artifactKey: Guid(5f001485f4d1ac341b2290527d44891e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Stain3.png using Guid(5f001485f4d1ac341b2290527d44891e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3b7f7536a2d27d90a5b827cb2843ac9d') in 0.064973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Wood2.jpg
+  artifactKey: Guid(2c72173bb1e61e44d83fb872bf3f2610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Wood2.jpg using Guid(2c72173bb1e61e44d83fb872bf3f2610) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'aec3f45ba8578424ab6651bdde15c7e8') in 0.068281 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/WallsStone.jpg
+  artifactKey: Guid(dd2e09c595db5fa4cad4cbe26b9abba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/WallsStone.jpg using Guid(dd2e09c595db5fa4cad4cbe26b9abba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b34c5ae2e086e236eb70df0df2df14d4') in 0.071439 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001244 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Wood4.jpg
+  artifactKey: Guid(60ac0b9672b7a55478f235220c56727a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Wood4.jpg using Guid(60ac0b9672b7a55478f235220c56727a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '727b17033f9b39fd02fa940f146b3930') in 0.055767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rust.jpg
+  artifactKey: Guid(1a6e3051478a73d4ca49c60c2ede732c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rust.jpg using Guid(1a6e3051478a73d4ca49c60c2ede732c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8cd1cba4e0f9e641a35210098b2d4194') in 0.074593 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rubber4.jpg
+  artifactKey: Guid(8617a219d84360a42ab8fc6487fc2291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rubber4.jpg using Guid(8617a219d84360a42ab8fc6487fc2291) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2ea54302f8b41aec1ac241ef15d71836') in 0.119546 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/WoodFloor.jpg
+  artifactKey: Guid(cd7d9f089a4df9e4286540af19faa68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/WoodFloor.jpg using Guid(cd7d9f089a4df9e4286540af19faa68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8e79ed8d8b3926d62fcee1fc3b4f3a8e') in 0.064181 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Metal2.jpg
+  artifactKey: Guid(ebd48acbdc14c7841b4cff07f1821046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Metal2.jpg using Guid(ebd48acbdc14c7841b4cff07f1821046) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '45cb90db1832b1e67d3fbef4ccaa80ae') in 0.070355 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Metal.jpg
+  artifactKey: Guid(b4d9320e0f19bfe42a227e900a3e595d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Metal.jpg using Guid(b4d9320e0f19bfe42a227e900a3e595d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a6f52023f1d3140dbb913c30064aed0b') in 0.071226 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/WoodFloor5.jpg
+  artifactKey: Guid(4577c22515a2b0346bed9cf3f9d59b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/WoodFloor5.jpg using Guid(4577c22515a2b0346bed9cf3f9d59b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '084cb2c5cfe9ca37d41c60b660a5b2e1') in 0.058606 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Walls4.jpg
+  artifactKey: Guid(6e488bbfda66c82418b3e8cb48052c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Walls4.jpg using Guid(6e488bbfda66c82418b3e8cb48052c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6c5e11117a0d2a8f1d75343b7da05a78') in 0.057976 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Stone9.jpg
+  artifactKey: Guid(89dcd8ed2950aec4685c243b579064dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Stone9.jpg using Guid(89dcd8ed2950aec4685c243b579064dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a1c5ace4b3ec53ff1100f9aa84864968') in 0.062116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rubber.jpg
+  artifactKey: Guid(35c677e61164f9c4aa69cbb17da30e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rubber.jpg using Guid(35c677e61164f9c4aa69cbb17da30e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '77cc914dbe576bf5049d56e9bfed1bc3') in 0.056880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Stone.jpg
+  artifactKey: Guid(01bbb84c587494248913202a912983cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Stone.jpg using Guid(01bbb84c587494248913202a912983cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '31619b727d8394979addd05171af5564') in 0.064391 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Tiles2.jpg
+  artifactKey: Guid(5cc07c0bbd22a6744a8addf26f84a1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Tiles2.jpg using Guid(5cc07c0bbd22a6744a8addf26f84a1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '62441ba9942b422f78a529580c64831a') in 0.065939 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rubber5.jpg
+  artifactKey: Guid(f9a84431dd25eff42bc80ab29370a046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rubber5.jpg using Guid(f9a84431dd25eff42bc80ab29370a046) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8050a22d34aee1ebd1067f49ba8fa3d4') in 0.059550 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Silver4.jpg
+  artifactKey: Guid(3a7f03fe6cc691740b97566e496162e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Silver4.jpg using Guid(3a7f03fe6cc691740b97566e496162e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8e32281831a679338e23c1c269e8100c') in 0.057656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Stone6.jpg
+  artifactKey: Guid(12a26e2accf89a84c82f1f93b362ca50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Stone6.jpg using Guid(12a26e2accf89a84c82f1f93b362ca50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b5f7d538dda9e7a0afbb0a550eda4a39') in 0.066306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Wood.jpg
+  artifactKey: Guid(04282d20068d5de448fb861cb6612c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Wood.jpg using Guid(04282d20068d5de448fb861cb6612c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c7ebe9ae3abfbf8fc81f7cc902e2611c') in 0.101958 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/WoodFloor4.jpg
+  artifactKey: Guid(76f0d12a3f5492843926dde38aec132d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/WoodFloor4.jpg using Guid(76f0d12a3f5492843926dde38aec132d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f22080ef7ef654b45b161263821d701e') in 0.068421 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Stone8.jpg
+  artifactKey: Guid(051c596a3df03304fa7bc95f2ffd900e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Stone8.jpg using Guid(051c596a3df03304fa7bc95f2ffd900e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '240d3dd245c22deb5b429fc813c64ee4') in 0.053314 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/WoodFloor3.jpg
+  artifactKey: Guid(71df87229c0d6824eb74384b0a7b1253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/WoodFloor3.jpg using Guid(71df87229c0d6824eb74384b0a7b1253) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd1a71519d81b3fde2fbe303bd4db0244') in 0.059903 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rust5.jpg
+  artifactKey: Guid(07c57bae44c660b4aadf78e690405c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Rust5.jpg using Guid(07c57bae44c660b4aadf78e690405c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ded8e5462f87bb5d63b919aa1387cbee') in 0.063730 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Tiles.jpg
+  artifactKey: Guid(fae7467816ba4494ab8f106bbe6b83da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Tiles.jpg using Guid(fae7467816ba4494ab8f106bbe6b83da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3296633fb96026e22c201b54b7f270f6') in 0.084723 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Metal8.jpg
+  artifactKey: Guid(50af5e6eeb285a54e82cf9e2de3cc454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Metal8.jpg using Guid(50af5e6eeb285a54e82cf9e2de3cc454) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '25f80c67289d4c2dff7f2b11853e99b4') in 0.080571 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Metal9.jpg
+  artifactKey: Guid(e1376eead356a5d4ca522b2189b923f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/MiscTextures/Metal9.jpg using Guid(e1376eead356a5d4ca522b2189b923f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5ca99069f0ac7940dd668f041a4a1662') in 0.076920 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.040337 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Arms/Arms.fbx
+  artifactKey: Guid(19ea60034f0cd554882092e7f5abc4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Arms/Arms.fbx using Guid(19ea60034f0cd554882092e7f5abc4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6279167b6c1c7c212fb2a72dab3532ce') in 0.330037 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 204
+========================================================================
+Received Import Request.
+  Time since last request: 19.158220 seconds.
+  path: Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chainsaw/workerSubs_worker_AlbedoTransparency 1.mat
+  artifactKey: Guid(f7f0d26a0310db14892a1e2fcf1ad167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicHorrorGameAssets-20251110T183343Z-1-001/BasicHorrorGameAssets/Models/Chainsaw/workerSubs_worker_AlbedoTransparency 1.mat using Guid(f7f0d26a0310db14892a1e2fcf1ad167) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7cd467bc7e2658fbab0afdf85e96a4b5') in 0.044396 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.746 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.244 seconds
+Domain Reload Profiling: 2986ms
+	BeginReloadAssembly (256ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (23ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (60ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (365ms)
+		LoadAssemblies (460ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (32ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (22ms)
+	FinalizeReload (2246ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (831ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (121ms)
+			ProcessInitializeOnLoadAttributes (559ms)
+			ProcessInitializeOnLoadMethodAttributes (124ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (39ms)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 11.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5038 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (2.0 MB). Loaded Objects now: 5815.
+Memory consumption went from 192.7 MB to 190.6 MB.
+Total: 5.084800 ms (FindLiveObjects: 0.514800 ms CreateObjectMapping: 0.278800 ms MarkObjects: 3.918200 ms  DeleteObjects: 0.371100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 3ead1caaecf1c488f20bcfeb224b6af5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
